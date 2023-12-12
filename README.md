@@ -1,0 +1,2 @@
+- Sebelum menjalankan program, pastikan file-file telah diekstrak/diletakkan ke folder yang sama.
+- Program dapat dijalankan dengan membuka file index.html menggunakan internet browser.
